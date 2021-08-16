@@ -179,5 +179,3 @@ plt.plot(enjoyment_profile)
 plt.ylabel('Total enjoyment')
 plt.xlabel('Number of generations')
 plt.show()
-
-print(population_profile)
