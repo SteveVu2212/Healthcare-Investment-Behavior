@@ -49,3 +49,4 @@ degen_slope|4|
 
 The maximum life enjoyment is over 1,400 units in the whole life. A rational agent invests heavily in health at the beginning, and gradually reduce it to closely zero. In contrast, the life investment ratio starts at low level before soaring to almost 100% at the end of the experiment. The savings ratio remains very low during the living periods.
 
+![](https://github.com/SteveVu2212/Healthcare-Investment-Behavior/blob/main/images/subplots.png)
