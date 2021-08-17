@@ -22,7 +22,7 @@ However, he is able to regain health by making an investment. The amount of rega
 
 His ultimate goal is to maximize his total enjoyment during his living periods. The life enjoyment is a function of life investment and health after being regained.
 
-![](https://github.com/SteveVu2212/Healthcare-Investment-Behavior/blob/main/images/life%20enjoyment%201.png)
+![](https://github.com/SteveVu2212/Healthcare-Investment-Behavior/blob/main/images/Life%20Enjoyment.png)
 
 hgfhfg
 
