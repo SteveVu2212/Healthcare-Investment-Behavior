@@ -24,11 +24,6 @@ His ultimate goal is to maximize his total enjoyment during his living periods. 
 
 ![](https://github.com/SteveVu2212/Healthcare-Investment-Behavior/blob/main/images/Life%20Enjoyment.png)
 
-hgfhfg
-
-$HealthAfterHarvest = CurrentHealth -(FixedPoint + DegenSlope * CurrentPeriod)$
-
-
 
 # 3. Results
 
